@@ -9,12 +9,11 @@ The Penumbra Project is a cutting-edge initiative focused on developing a modula
 # Penumbra Ceremony Phase 2
 
 # dependencies
-
-'''
+```
 sudo apt-get update && sudo apt-get upgrade -y 
 sudo apt-get install curl 
 sudo apt-get install build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
-'''
+```
 
 # Installing Penumbra
 
