@@ -10,6 +10,16 @@ The Penumbra Project is a cutting-edge initiative focused on developing a modula
 
 # dependencies
 
-'sudo apt-get update && sudo apt-get upgrade -y 
+'''sudo apt-get update && sudo apt-get upgrade -y 
 sudo apt-get install curl 
-sudo apt-get install build-essential glibc-source pkg-config libssl-dev clang git-lfs -y'
+sudo apt-get install build-essential glibc-source pkg-config libssl-dev clang git-lfs -y'''
+
+# Installing Penumbra
+
+'''# Install
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/penumbra-zone/penumbra/releases/download/v0.77.2/pcli-installer.sh | sh
+
+source $HOME/.cargo/env'''
+
+# Check if installed correctly
+'''pcli --version'''
