@@ -74,7 +74,7 @@ pcli ceremony contribute --phase 2 --bid 0penumbra
 https://summoning.penumbra.zone/
 
 
-**If you do it right it'll give you a slot number and a transcript hash
+**If you do it right it'll give you a slot number and a transcript hash.
 take a screenshot, copy them and tweet it with tagging Penumbra twitter and at last fill this form.**
 
 https://form.asana.com/?k=THhk7qmp3IDwCvXWTPHkow&d=1206052071402903
